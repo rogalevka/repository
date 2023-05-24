@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\Курсовая_MarkupCompile.cache
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\Курсовая_MarkupCompile.lref
+C:\Users\ASUS\Desktop\РПМ\Курсовая\obj\Debug\Pages\LoginPage.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+E:\Курсовая РПМ\Курсовая\obj\Debug\MainWindow.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Pages\AddEditPage.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Pages\LoginPage.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Pages\Registracia.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Pages\ServicesPage.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\App.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Курсовая_Content.g.cs
+E:\Курсовая РПМ\Курсовая\obj\Debug\Курсовая_MarkupCompile.cache
+E:\Курсовая РПМ\Курсовая\obj\Debug\Курсовая_MarkupCompile.lref

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="195ac4dcb55e4f17a99f9f4dff30d849" Name="Diagram1" ZoomLevel="81">
+        <EntityTypeShape EntityType="Костюк2Model.sysdiagram" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Адрес_доставки" Width="1.5" PointX="2.875" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Банковская_карта" Width="1.5" PointX="7.125" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Детали_заказа" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Должности" Width="1.5" PointX="7" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Заказы" Width="1.5" PointX="5" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Категория_товара" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Покупатель" Width="1.5" PointX="8.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Поставщик" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Сотрудники" Width="1.5" PointX="5" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Товары" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Костюк2Model.Характеристики_товара" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <AssociationConnector Association="Костюк2Model.FK_Адрес_доставки_Сотрудники" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Заказы_Адрес_доставки" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Банковская_карта_Покупатель" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Заказы_Банковская_карта" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Детали_заказа_Заказы" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Детали_заказа_Товары" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Сотрудники_Должности" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Товары_Категория_товара" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Товары_Поставщик" ManuallyRouted="false" />
+        <AssociationConnector Association="Костюк2Model.FK_Товары_Характеристики_товара" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
